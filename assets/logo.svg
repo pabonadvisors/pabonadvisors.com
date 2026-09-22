@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="#f4efe8"/>
+  <rect x="120" y="120" width="960" height="960" rx="26" fill="#f9f6f2" stroke="#d9c7a1" stroke-width="8"/>
+  <text x="600" y="560" text-anchor="middle" font-family="Georgia, serif" font-size="154" fill="#122d4d" letter-spacing="4">Pabón</text>
+  <text x="600" y="700" text-anchor="middle" font-family="Georgia, serif" font-size="142" fill="#122d4d" letter-spacing="2">Advisors</text>
+  <line x1="360" y1="770" x2="840" y2="770" stroke="#c6a76a" stroke-width="8"/>
+  <text x="600" y="860" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" fill="#0d2340" letter-spacing="10">LLC</text>
+</svg>

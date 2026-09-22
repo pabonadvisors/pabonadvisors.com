@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="960" viewBox="0 0 800 960">
+  <rect width="800" height="960" fill="#eef2f7"/>
+  <rect x="140" y="100" width="520" height="760" rx="28" fill="#e7ebf2"/>
+  <circle cx="400" cy="350" r="170" fill="#d9dfe8"/>
+  <path d="M400 170c70 0 128 58 128 128s-58 128-128 128-128-58-128-128 58-128 128-128Z" fill="#c1c9d3"/>
+  <path d="M265 635h270v120H265z" fill="#0d2340"/>
+  <path d="M280 460h240v120H280z" fill="#c6a76a" opacity="0.9"/>
+  <circle cx="400" cy="330" r="76" fill="#dedfe4"/>
+  <text x="400" y="835" text-anchor="middle" font-family="Arial, sans-serif" font-size="46" fill="#0d2340" letter-spacing="7">WALBERT</text>
+</svg>
