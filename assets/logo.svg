@@ -1,22 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">Pabón Advisors logo</title>
-  <desc id="desc">Gold monogram and navy wordmark for Pabón Advisors LLC</desc>
-  <g transform="translate(20,30)">
-    <rect x="0" y="30" width="270" height="260" rx="0" fill="none" stroke="#d8a63a" stroke-width="12"/>
-    <g fill="none" stroke="#d8a63a" stroke-linecap="round" stroke-linejoin="round" stroke-width="12">
-      <path d="M60 70V230"/>
-      <path d="M60 70H135C174 70 200 96 200 133C200 170 174 196 135 196H60"/>
-      <path d="M68 114L108 230"/>
-      <path d="M108 230L146 114"/>
-      <path d="M135 160H197"/>
-      <path d="M144 70L205 230"/>
-      <path d="M205 230L266 70"/>
-      <path d="M230 126H192"/>
+  <desc id="desc">Gold monogram symbol and navy wordmark for Pabón Advisors LLC</desc>
+  <g transform="translate(0,0)">
+    <g transform="translate(28,40)">
+      <rect x="0" y="28" width="300" height="250" fill="none" stroke="#d4a53a" stroke-width="9"/>
+      <g fill="none" stroke="#d4a53a" stroke-linecap="round" stroke-linejoin="round" stroke-width="11">
+        <path d="M52 62V232"/>
+        <path d="M52 62H128C168 62 196 90 196 128C196 166 168 194 128 194H52"/>
+        <path d="M59 108L102 232"/>
+        <path d="M102 232L145 108"/>
+        <path d="M128 156H196"/>
+        <path d="M138 62L190 232"/>
+        <path d="M190 232L242 62"/>
+        <path d="M210 116H170"/>
+      </g>
     </g>
-  </g>
 
-  <g transform="translate(330,0)">
-    <text x="0" y="170" fill="#1a2f4d" font-family="Georgia, 'Times New Roman', serif" font-size="150" font-weight="500" letter-spacing="2">PABÓN</text>
-    <text x="6" y="255" fill="#1a2f4d" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="600" letter-spacing="12">ADVISORS LLC</text>
+    <g transform="translate(355,0)">
+      <text x="0" y="170" fill="#1b2d52" font-family="Georgia, 'Times New Roman', serif" font-size="150" font-weight="500" letter-spacing="2">PABÓN</text>
+      <text x="6" y="258" fill="#1b2d52" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="600" letter-spacing="12">ADVISORS LLC</text>
+    </g>
   </g>
 </svg>
